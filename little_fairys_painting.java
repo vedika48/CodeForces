@@ -1,4 +1,3 @@
-import java.lang.reflect.Array;
 import java.util.*;
 public class little_fairys_painting {
     public static void main(String[] args) {
